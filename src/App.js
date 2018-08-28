@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Layout from './components/Layout/Layout';
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 
-//08 18
+//08 24 2
 
 class App extends Component {
   render() {
